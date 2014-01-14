@@ -1,6 +1,6 @@
 **Warning:**
 Contains solutions to [euler problems](projecteuler.net). 
-If you have not completed these yourself, please don not see this as
+If you have not completed these yourself, please do not see this as
 an opportunity to cheat.
 
 # Learning project
